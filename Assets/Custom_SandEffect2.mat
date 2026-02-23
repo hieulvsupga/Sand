@@ -26,8 +26,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _FillAmount: 0.8048298
-    - _FillVelocity: 5.2428947e-15
+    - _FillAmount: 0.6879406
+    - _FillVelocity: 0.000000088222194
     - _FlowSpread: 0.1
     - _GrainStrength: 0.125
     - _MaxY: 1

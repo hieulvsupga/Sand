@@ -1276,7 +1276,7 @@ MonoBehaviour:
   sandMaterial: {fileID: 2100000, guid: c68883b52d9c48d4bb1fe7e1f3fc55d4, type: 2}
   fillSpeed: 0.8
   velocityRiseSpeed: 10
-  velocityFallSpeed: 15
+  velocityFallSpeed: 9
 --- !u!1 &2104736284
 GameObject:
   m_ObjectHideFlags: 0
