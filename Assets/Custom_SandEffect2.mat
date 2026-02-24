@@ -27,7 +27,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _FillAmount: 1
-    - _FillVelocity: 0.0000083294
+    - _FillVelocity: 0.000018926248
     - _FlowSpread: 0.1
     - _GrainStrength: 0.125
     - _MaxY: 1
