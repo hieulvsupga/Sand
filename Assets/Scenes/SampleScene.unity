@@ -140,7 +140,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!60 &199501221
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -211,7 +211,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 75f5f34dc1b5347e0b8351032682f224, type: 3}
-  m_Color: {r: 0.8627451, g: 0.27058825, b: 0.28627452, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -713,6 +713,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7595536959292446965, guid: a0ff0e91388d66d42ab3ad66f5804295, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 939b50ada09c2b64fbec4f13e7fa7550, type: 2}
+    - target: {fileID: -5186664164644835107, guid: a0ff0e91388d66d42ab3ad66f5804295, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 939b50ada09c2b64fbec4f13e7fa7550, type: 2}
     - target: {fileID: -3992322309608835323, guid: a0ff0e91388d66d42ab3ad66f5804295, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -1294,7 +1302,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!199 &2104736285
 ParticleSystemRenderer:
   serializedVersion: 6
