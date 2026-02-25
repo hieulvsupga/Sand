@@ -26,8 +26,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _FillAmount: 1
-    - _FillVelocity: 0
+    - _FillAmount: 0.8879949
+    - _FillVelocity: 0.0005414853
     - _FlowAngle: 45
     - _FlowFadeDistance: 0.15
     - _FlowSpread: 0.1
