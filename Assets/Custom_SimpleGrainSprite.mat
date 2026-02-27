@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Custom_SandEffect2
-  m_Shader: {fileID: 4800000, guid: 5c97571b23a176c4eaed00ef246733df, type: 3}
+  m_Name: Custom_SimpleGrainSprite
+  m_Shader: {fileID: 4800000, guid: b8e92ef9791c9794a98d9225dfed1617, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -26,27 +26,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _FillAmount: 1
-    - _FillVelocity: 4e-45
-    - _FlowAngle: 45
-    - _FlowFadeDistance: 0.15
-    - _FlowSpread: 0.1
-    - _FlowStrength: 0.12
-    - _FlowThickness: 0.03
-    - _GrainStrength: 0.125
-    - _MaxY: 1
-    - _MinY: 0
-    - _NoiseScale: 35
-    - _NoiseStrength: 0.02
-    - _ObjectHeight: 1
-    - _PeakHeight: 0.1
-    - _PeakSharpness: 1
-    - _PeakX: 0.5
-    - _Turbulence: 2
-    - _WaveFrequency: 7.25
-    - _WaveSpeed: 0.2
-    - _WorldMaxY: 1
-    - _WorldMinY: 0
+    - _GrainStrength: 0.118
+    - _NoiseScale: 26.72
     m_Colors:
-    - _SandColor: {r: 1, g: 0.3820755, b: 0.3820755, a: 1}
+    - _Color: {r: 1, g: 0.3726415, b: 0.3726415, a: 1}
   m_BuildTextureStacks: []
